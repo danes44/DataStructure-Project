@@ -1,0 +1,61 @@
+
+Meja ke-1
+	Nama 			: -
+	Nasi Goreng		: 0
+	Steak			: 0
+	Tea			: 0
+	Lime			: 0
+Meja ke-2
+	Nama 			: -
+	Nasi Goreng		: 0
+	Steak			: 0
+	Tea			: 0
+	Lime			: 0
+Meja ke-3
+	Nama 			: -
+	Nasi Goreng		: 0
+	Steak			: 0
+	Tea			: 0
+	Lime			: 0
+Meja ke-4
+	Nama 			: -
+	Nasi Goreng		: 0
+	Steak			: 0
+	Tea			: 0
+	Lime			: 0
+Meja ke-5
+	Nama 			: -
+	Nasi Goreng		: 0
+	Steak			: 0
+	Tea			: 0
+	Lime			: 0
+Meja ke-6
+	Nama 			: -
+	Nasi Goreng		: 0
+	Steak			: 0
+	Tea			: 0
+	Lime			: 0
+Meja ke-7
+	Nama 			: -
+	Nasi Goreng		: 0
+	Steak			: 0
+	Tea			: 0
+	Lime			: 0
+Meja ke-8
+	Nama 			: -
+	Nasi Goreng		: 0
+	Steak			: 0
+	Tea			: 0
+	Lime			: 0
+Meja ke-9
+	Nama 			: -
+	Nasi Goreng		: 0
+	Steak			: 0
+	Tea			: 0
+	Lime			: 0
+Meja ke-10
+	Nama 			: -
+	Nasi Goreng		: 0
+	Steak			: 0
+	Tea			: 0
+	Lime			: 0

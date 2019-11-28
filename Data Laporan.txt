@@ -1,0 +1,4 @@
+
+Makanan Terbanyak adalah Nasi Goreng sebanyak 23
+Minuman Terbanyak adalah Tea sebanyak 7
+Omzet pada tanggal 27 November 2019 adalah Rp.430000.00

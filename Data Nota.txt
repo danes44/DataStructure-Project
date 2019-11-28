@@ -1,0 +1,24 @@
+
+Nomor Nota : 1
+Nomor Meja : 1
+	Nama 			: SukaBapak
+	Nasi Goreng		: 10
+	Steak			: 4
+	Biaya			: 160000.00
+Nomor Nota : 2
+Nomor Meja : 2
+	Nama 			: Lebkach
+	Steak			: 2
+	Biaya			: 30000.00
+Nomor Nota : 3
+Nomor Meja : 1
+	Nama 			: loy
+	Tea			: 4
+	Biaya			: 20000.00
+Nomor Nota : 4
+Nomor Meja : 1
+	Nama 			: Danes
+	Nasi Goreng		: 13
+	Steak			: 5
+	Tea			: 3
+	Biaya			: 220000.00
